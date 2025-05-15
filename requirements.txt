@@ -1,0 +1,12 @@
+SQLAlchemy==2.0.27
+python-barcode==0.15.1
+pillow==10.2.0
+openpyxl==3.1.2
+reportlab==4.0.8
+pandas==2.2.0
+requests==2.31.0
+ttkbootstrap==1.10.1
+matplotlib==3.8.3
+keyboard==0.13.5
+python-i18n==0.3.9
+schedule==1.2.1 
